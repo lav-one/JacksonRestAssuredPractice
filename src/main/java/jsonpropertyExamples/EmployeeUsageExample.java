@@ -9,5 +9,6 @@ public class EmployeeUsageExample {
         person.setAge(27);
 
         System.out.println(person.getName());
+        System.out.println(person.getAge());
     }
 }
